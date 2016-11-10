@@ -34,7 +34,7 @@ var startUpDelay = window.performance.now();
 /* [START] Check If Original MPP Script Is Blocked */
 if (typeof(MPP) !== "undefined") {
 	scriptError("You didn't block the original MPP script, you cannot use the script until you've blocked the original MPP script!");
-    // return;
+    return;
 }
 /* [END] Check If Original MPP Script Is Blocked */
 
