@@ -70,7 +70,7 @@ var defaultBackground = "http://cdn.pcwallart.com/images/dark-abstract-1920x1080
 /* [END] Settings Variables */
 
 /* [START] Unknown */
-scriptMessage("Script made with ♥ by Steven");
+scriptMessage("Script made with ♥ by BN-TK");
 scriptMessage("Script version: " + scriptVersion);
 /* [END] Unknown */
 
